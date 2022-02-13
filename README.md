@@ -1,6 +1,6 @@
 # WeatherAroundMe
 
-## Checkout - [SawoWeather](https://sawoweather.netlify.app/)
+## Checkout - [WeatherAroundMe](https://WeatherAroundMe.netlify.app/)
 
 ## Features 🚀
 *  Passwordless authentication by `Sawo Labs`
